@@ -68,12 +68,13 @@ Check out my [Skills](#skills), [Expereiences](#exp), and [Awards](#awards) belo
 
   I like making these videos and I must say I have learnt a lot. I have witnessed my skills improving a lot - I would initially record over and over again for even simple videos, now I usually get done in one take. The frequency of uploading has taken a hit since I do not usually find the time to make videos during packed semesters.
 
-#### `Coding`
+#### Coding
   I have a fair bit of informal experience as I've worked on a few projects. I usually just work on something when I have a reason to - instead of just doing it for the sake of building a portfolio. 
 
   Refer to "Projects" section to learn more about them. You can also check some of them out on github.
 
-## <div style = 'text-align : center;'> Awards / Certificates / Courses </div> {#awards}
+<div style = "text-align : center;">
+## Awards / Certificates / Courses {#awards} </div>
 ***
   1.  #### Scholarships
 
