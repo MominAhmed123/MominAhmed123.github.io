@@ -15,12 +15,14 @@ I am also 21 years old - which means I like video games. Oh, I also likes cats (
 
 Check out my [Skills](#skills), [Expereiences](#exp), and [Awards](#awards) below!
 
- <div style = 'text-align : center;'> <h2> Skills </h2> </div> {#skills}
+<div style="text-align: center;">
+  <h2 id="skills">Skills</h2>
+</div>
 
 ***
-<span style="display: inline-block; padding: 2px; border: 1px solid green; border-radius: 1px; background-color: rgba(144, 238, 144, 0.2);">
-  <h4> Teaching </h4>
-</span>
+<div style="display: inline-block; padding: 3px; border: 1px solid green; border-radius: 1px; background-color: rgba(144, 238, 144, 0.2);">
+  <h4 style="margin: 0;">Teaching</h4>
+</div>
 
   I love teaching - particularly things that I consider "cool". I find it to be quite unfortunate how elegant subjects such as Math and creative subjects such as CS are taught in schools in such an uninspiring and unmotivating manner - and I hope to play a part in changing that. 
 
