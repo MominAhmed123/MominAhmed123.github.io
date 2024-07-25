@@ -13,37 +13,37 @@ Besides these two, teaching excites me alot. I have been involved with teaching 
 
 I am also 21 years old - which means I like video games. Oh, I also likes cats (very original, I know).
 
-## Skills
+Check out my [Skills](#skills), [Expereiences](#exp), and [Awards](#awards) below!
 
+## Skills {#skills}
+***
 #### Teaching
-I love teaching - particularly things that I consider "cool". I find it to be quite unfortunate how elegant subjects such as Math and creative subjects such as CS are taught in schools in such an uninspiring and unmotivating manner - and I hope to play a part in changing that. 
+  : I love teaching - particularly things that I consider "cool". I find it to be quite unfortunate how elegant subjects such as Math and creative subjects such as CS are taught in schools in such an uninspiring and unmotivating manner - and I hope to play a part in changing that. 
 
-I have a lot of exprience teaching (refer to the "Experiences" section) and I have grown quite comfortable with the online mode of teaching. 
+  I have a lot of exprience teaching (refer to the "Experiences" section) and I have grown quite comfortable with the online mode of teaching. 
 #### Coding
-I have recently been addicted to competitve coding and I can see myself improving with every problem I solve. You can view my codeforces profile here.
+  : I have recently been addicted to competitve coding and I can see myself improving with every problem I solve. You can view my codeforces profile here.
 
-Besides competitve coding, I have been coding for more than 5 years now and I am quite comfortable with learning new things when need be. You can view my github for a few of the projects I worked on. 
+  Besides competitve coding, I have been coding for more than 5 years now and I am quite comfortable with learning new things when need be. You can view my github for a few of the projects I worked on. 
 
-#### Fimiliarity with languages
-I have worked with C/ C++/ Python/ Java and HTML / CSS (although they are not programming languages). Of those, currently C++ remains my go-to.
+Fimiliarity with languages
+  : I have worked with C/ C++/ Python/ Java and HTML / CSS (although they are not programming languages). Of those, currently C++ remains my go-to.
 
-As for Human languages, I am fluent in English and Urdu (which means I can also understand and speak Hindi). I have passed the German A1 exam, although now Ich kann mich an nichts davon erinnern, was ich gelernt habe. Oh, I am also trying to learn Mandarin (I am very bad at it).
-#### Fimiliarity with Libraries
-I have worked with pandas extensivly in python and I am quite comfortable with using it. Additionally, I am fimiliar with Keras/TensorFlow/Sickit Learn as I have worked on projects using them. I have also use GDK (a GUI library for C) although I would rather stay away from it. Additionally, I also work with Manim - a math animations library for python. 
-#### Maths
-I have loved maths ever since I read "Art and Craft of Problem Solving" by Paul Zeitz in High School. Now in university, I am mostly studying Pure Maths (refer to last section for specific courses). In particular, Number Theory is my favourite area.
+  As for Human languages, I am fluent in English and Urdu (which means I can also understand and speak Hindi). I have passed the German A1 exam, although now Ich kann mich an nichts erinnern, was ich gelernt habe. Oh, I am also trying to learn Mandarin (我会说一点普通话).
+Fimiliarity with Libraries
+  : I have worked with pandas extensivly in python and I am quite comfortable with using it. Additionally, I am fimiliar with Keras/TensorFlow/Sickit Learn as I have worked on projects using them. I have also used GDK (a GUI library for C) although I would rather stay away from it (ㆆ _ ㆆ). Additionally, I also work with Manim - a math animations library for python. 
+Maths
+  : I have loved maths ever since I read "Art and Craft of Problem Solving" by Paul Zeitz in High School. Now in university, I am mostly studying Pure Maths (refer to last section for specific courses). In particular, Number Theory is my favourite area.
 
-I started my Math journey with Olympiad - you can refer to last section for a bunch of awards I got (no, I do not have any IMO medals :c ). I continue to be involved in Olympaid as I follow up with each year's IMO and seldom attempt a few questions. I am also active in Math Circles (in both Pakistan and Hong Kong) and I am also frequently available on AOPs as a grader.  
-
-#### Research
-My first (and currently only) experience was in Summer 2024 when I undertook a UROP under Prof. Fredrick Fong for "Geometric Flows". I gained a lot of valuable experience from this research - although I still need to learn much more to improve my research skills.
-#### Creative Media
-I am also decently good at Photo and Video Editing. In particular, I really like the entire creative process a lot although I must say video editing and animations are way too much effort than I would like to put in. Speaking of animations, I am also decent with math animations using Manim library. Lastly, I have built up a fair bit of experience designing posters and banners for socieities. Some of my projects are available on youtube. 
-#### Debating / Public Speaking
-I have lots of experience from High school as I was part of MUN and Debate team. I continue to follow some WDC (World Debating Championship) matches, although now I do not find the time to engage in proper debating matches.
-
-## Experiences
-
+  I started my Math journey with Olympiad - you can refer to last section for a bunch of awards I got (no, I do not have any IMO medals :c ). I continue to be involved in Olympaid as I follow up with each year's IMO and seldom attempt a few questions. I am also active in Math Circles (in both Pakistan and Hong Kong) and I am also frequently available on AOPs as a grader.  
+Creative Media
+  : I am also decently good at Photo and Video Editing. In particular, I really like the entire creative process a lot although I must say video editing and animations are way too much effort than I would like to put in. Speaking of animations, I am also decent with math animations using Manim library. Lastly, I have built up a fair bit of experience designing posters and banners for socieities. Some of my projects are available on youtube. 
+Debating / Public Speaking
+  : I have lots of experience from High school as I was part of MUN and Debate team. I continue to follow some WDC (World Debating Championship) matches, although now I do not find the time to engage in proper debating matches.
+Research
+  : My first (and currently only) experience was in Summer 2024 when I undertook a UROP under Prof. Fredrick Fong for "Geometric Flows". I gained a lot of valuable experience from this research - although I still need to learn much more to improve my research skills.
+Experiences {#exp}
+***
 #### Teaching
 I will only list a few of my experiences (since the list is too long, and frankly boring). 
 
@@ -64,51 +64,50 @@ I have a fair bit of informal experience as I've worked on a few projects. I usu
 Refer to "Projects" section to learn more about them. You can also check some of them out on github.
 
 
-## Awards / Certificates / Courses
+## Awards / Certificates / Courses {#awards}
+***
+  1. #### Scholarships
+    * HKUST Full Tuition Scholarship (Merit-Based)
 
-#### Scholarships
-HKUST Full Tuition Scholarship (Merit-Based)
+    * Nixor College Full Tuition Scholarship (Merit-Based)
 
-Nixor College Full Tuition Scholarship (Merit-Based)
+  2. #### Academic Awards
 
-#### Academic Awards
+    * HKUST Fall 2023 Dean's List
 
-HKUST Fall 2023 Dean's List
+    * Nixor College 2021 - 2022 Dean's List with Academic Distinction
 
-Nixor College 2021 - 2022 Dean's List with Academic Distinction
+    * Alevels - 4A* (Maths, Further Maths, Physics, Chemistry)
 
-Alevels - 4A* (Maths, Further Maths, Physics, Chemistry)
+    * Olevels - 9A* 1A (Science subjects)
 
-Olevels - 9A* 1A (Science subjects)
+  3. #### Competition Awards
 
-#### Competition Awards
+    * Firebird CTF 2024 - 4th Place (Hackathon)
 
-HKUST Firebird CTF 2024 - 4th Place (Hackathon)
+    * IBIC 2022 -  3rd Place in Pakistan (Informatics)
 
-IBIC 2022 -  3rd Place in Pakistan (Informatics)
+    * South East Asian Math Olympiad (SEAMO) 2021 - 9th Place in Pakistan (Math Olympiad)
 
-South East Asian Math Olympiad (SEAMO) 2021 - 9th Place in Pakistan (Math Olympiad)
+    * Ziauddin Univesrity Debating Compeitition 2019 - Most promising Team (Debating)
 
-Ziauddin Univesrity Debating Compeitition 2019 - Most promising Team (Debating)
+  4. #### Important Courses I have taken
+    * MATH2043 - Honours Mathematical Analysis
 
+    * MATH2131 - Honours Linear Algebra
 
-#### Important Courses I have taken
-MATH2043 - Honours Mathematical Analysis
+    * COMP2711H - Honours Discrete Mathematics
 
-MATH2131 - Honours Linear Algebra
+    * COMP3711H - Honours Design and Analysis of Algorithms (Taking)
 
-COMP2711H - Honours Discrete Mathematics
+    * COMP5711 - Advanced Algorithms (Taking)
 
-COMP3711H - Honours Design and Analysis of Algorithms (Taking)
+    * MATH1024 - Honours Calculus 2
 
-COMP5711 - Advanced Algorithms (Taking)
+    * COMP2211 - Introduction to AI
 
-MATH1024 - Honours Calculus 2
+    * COMP2012H - Honours OOP and Data Structures (Taking)
 
-COMP2211 - Introduction to AI
+    * MATH2023 - Multivariable Calculus
 
-COMP2012H - Honours OOP and Data Structures (Taking)
-
-MATH2023 - Multivariable Calculus
-
-MATH4141 - Number Theory (Auditing)
+    * MATH4141 - Number Theory (Auditing)
