@@ -15,9 +15,12 @@ I am also 21 years old - which means I like video games. Oh, I also likes cats (
 
 Check out my [Skills](#skills), [Expereiences](#exp), and [Awards](#awards) below!
 
-## <div style = 'text-align : center;'>Skills </div> {#skills}
+ <div style = 'text-align : center;'> <h2> Skills </h2> </div> {#skills}
+
 ***
-#### `Teaching`
+<span style="display: inline-block; padding: 2px; border: 1px solid green; border-radius: 1px; background-color: rgba(144, 238, 144, 0.2);">
+  <h4> Teaching </h4>
+</span>
 
   I love teaching - particularly things that I consider "cool". I find it to be quite unfortunate how elegant subjects such as Math and creative subjects such as CS are taught in schools in such an uninspiring and unmotivating manner - and I hope to play a part in changing that. 
 
@@ -50,7 +53,8 @@ Check out my [Skills](#skills), [Expereiences](#exp), and [Awards](#awards) belo
 #### `Research`
   My first (and currently only) experience was in Summer 2024 when I undertook a UROP under Prof. Fredrick Fong for "Geometric Flows". I gained a lot of valuable experience from this research - although I still need to learn much more to improve my research skills.
 
-## <div style = 'text-align : center;'> Experiences </div> {#exp}
+<div style = 'text-align : center;'> <h2> Experiences </h2> </div> {#exp}
+
 ***
 #### `Teaching`
   I will only list a few important experiences (since the list is too long). 
@@ -74,7 +78,8 @@ Check out my [Skills](#skills), [Expereiences](#exp), and [Awards](#awards) belo
   Refer to "Projects" section to learn more about them. You can also check some of them out on github.
 
 <div style = "text-align : center;">
-## Awards / Certificates / Courses {#awards} </div>
+<h2> Awards / Certificates / Courses </h2> </div> {#awards}
+
 ***
   1.  #### Scholarships
 
