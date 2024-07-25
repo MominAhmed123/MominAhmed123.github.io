@@ -20,7 +20,7 @@ Check out my [Skills](#skills), [Expereiences](#exp), and [Awards](#awards) belo
 </div>
 
 ***
-<div style="display: inline-block; padding: 3px; border: 1px solid green; border-radius: 1px; background-color: rgba(144, 238, 144, 0.2);">
+<div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
   <h4 style="margin: 0;">Teaching</h4>
 </div>
 
