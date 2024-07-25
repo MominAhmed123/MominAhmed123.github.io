@@ -3,9 +3,9 @@
 title: Momin Ahmed
 description: Math + CS @ HKUST
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /MominAhmed123.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: smarizvi@connect.ust.hk #
 
 # Pagination
 paginate: 4
@@ -14,7 +14,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
+linkedin: "https://www.linkedin.com/in/momin-ahmed-54208a211/"
 stackoverflow: "#"
 github: "#"
 researchgate: "#"
