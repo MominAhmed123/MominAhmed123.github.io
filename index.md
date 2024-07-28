@@ -143,7 +143,7 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
 
       * South East Asian Math Olympiad (SEAMO) 2021 - 9th Place in Pakistan (Math Olympiad)
 
-      * Ziauddin Univesrity Debating Compeitition 2019 - Most promising Team (Debating)
+      * Ziauddin Univesrity Debating Competition 2019 - Most promising Team (Debating)
 
   4. #### Important Courses I have taken
       * MATH2043 - Honours Mathematical Analysis

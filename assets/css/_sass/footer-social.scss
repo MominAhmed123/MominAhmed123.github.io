@@ -30,16 +30,10 @@
           transform: rotate(360deg);
 }
 
-.rounded-social-buttons .fa-twitter,
-.fa-facebook-f,
+.rounded-social-buttons
 .fa-linkedin,
 .fa-github,
-.fa-orcid,
-.fa-researchgate,
-.fa-envelope
-.fa-quora
-.fa-instagram
-.fa-stack-overflow {
+.fa-youtube {
   font-size: 25px;
 }
 
@@ -138,12 +132,13 @@
     border-color: #5dd1b0;
 }
 
-.rounded-social-buttons .social-button.stackoverflow {
-  background: #f48024;
+.rounded-social-buttons .social-button.youtube {
+  background: #FF0000;
 }
 
-.rounded-social-buttons .social-button.stackoverflow:hover, .rounded-social-buttons .social-button.stackoverflow:focus {
-  color: #f48024;
+.rounded-social-buttons .social-button.youtube:hover,
+.rounded-social-buttons .social-button.youtube:focus {
+  color: #FF0000;
   background: #fefefe;
-  border-color: #5dd1b0;
+  border-color: #FF0000;
 }

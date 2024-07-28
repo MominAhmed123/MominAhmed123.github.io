@@ -4,24 +4,18 @@ title: Momin Ahmed
 description: Math + CS @ HKUST
 
 baseurl: "" #name of GitHub repository
-url: "http://localhost:4000" #custom url to be used instead of GitHub repository https://MominAhmed123.github.io
+url: "https://MominAhmed123.github.io" #custom url to be used instead of GitHub repository http://localhost:4000
 email: smarizvi@connect.ust.hk #
 
 # Pagination
 paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+permalink: /Research/:year/:title/
+paginate_path: /Research/page:num/
 
 # Social media links in footer
-twitter: "#"
 linkedin: "momin-ahmed-54208a211/"
-stackoverflow: "#"
+youtube: "UC5_OmTPzShNGLzrRmxCxcZA"
 github: "MominAhmed123"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
 
 
 # Markdown
