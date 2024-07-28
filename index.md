@@ -13,7 +13,7 @@ Besides these two, teaching excites me alot. I have been involved with teaching 
 
 I am also 21 years old - which means I like video games. Oh, I also likes cats (very original, I know).
 
-Check out my [Skills](#skills), [Expereiences](#exp), and [Awards](#awards) below!
+Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below!
 
 <div style="text-align: center;">
   <h2 id="skills">Skills</h2>
@@ -45,10 +45,12 @@ Check out my [Skills](#skills), [Expereiences](#exp), and [Awards](#awards) belo
   As for Human languages, I am fluent in English and Urdu (which means I can also understand and speak Hindi). I have passed the German A1 exam, although now Ich kann mich an nichts erinnern, was ich gelernt habe. Oh, I am also trying to learn Mandarin (我会说一点普通话).
 
 <div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
-  <h3 style="margin: 0;">Familiarity with Libraries</h3>
+  <h3 style="margin: 0;">Familiarity with Libraries and Tools</h3>
 </div>
 
   I have worked with pandas extensivly in python and I am quite comfortable with using it. Additionally, I am fimiliar with Keras/TensorFlow/Sickit Learn as I have worked on projects using them. I have also used GDK (a GUI library for C) although I would rather stay away from it (ㆆ _ ㆆ). Additionally, I also work with Manim - a math animations library for python. 
+
+  As for tools, I am familiar with Git, Unix based systems such as Linux, and also Jekyll (used for static websites).
 
 <div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
   <h3 style="margin: 0;">Mathematics </h3>
@@ -91,7 +93,7 @@ Check out my [Skills](#skills), [Expereiences](#exp), and [Awards](#awards) belo
 
   * I worked from 2021-2022 as a Mathematics Teaching Assistant (TA) at Nixor College. I held after class sesions from students having queries and held extra classes for exam preperation. 
 
-  * I worked on "AltX" as a founding member and Senior Math instructor. AltX was a free online education platform for Alevel/Olevel courses. I was respondible for making courses (including lectures and quizzes) for Alevel Mathematics and Olevel Additional Mathematics. Additionally, I was also responsible for managing two other Math instructors by assinging weekly duties. However, the website is no longer online due to lack of instructors although the lectures are still available on youtube.
+  * I worked on "AltX" as a founding member and Senior Math instructor. AltX was a free online education platform for Alevel/Olevel courses with nearly 1000 students enrolled. I was respondible for making courses (including lectures and quizzes) for Alevel Mathematics and Olevel Additional Mathematics. Additionally, I was also responsible for managing two other Math instructors by assinging weekly duties. However, the website is no longer online due to lack of instructors although the lectures are still available on youtube.
 
   * "Grasp" was an online olympiad platform that I started along with a friend. The purpose was similar to AOPs, to post solutions to olympiad problems. The difference was that we wanted there to be a hint system, so that you may still have another shot at the problem, and also a tag system, so you could focus on a specific area. We also wanted to cover some olympaids that are not mainstream (hence not available at aops). We worked on this project for about 4 months, however this project no longer exists as we did not see much success.
 

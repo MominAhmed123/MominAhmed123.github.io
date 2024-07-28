@@ -3,8 +3,8 @@
 title: Momin Ahmed
 description: Math + CS @ HKUST
 
-baseurl: "/" #name of GitHub repository
-url: "https://MominAhmed123.github.io" #custom url to be used instead of GitHub repository
+baseurl: "" #name of GitHub repository
+url: "http://localhost:4000" #custom url to be used instead of GitHub repository https://MominAhmed123.github.io
 email: smarizvi@connect.ust.hk #
 
 # Pagination
@@ -48,12 +48,12 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - Stable Seating.md
+      - Vector Image Compression.md
+      - youtube.md
+      - Comp 2211.md
+      - Manimations.md
+      - blank project.md
 
 sass:
   sass_dir: /assets/css/_sass
