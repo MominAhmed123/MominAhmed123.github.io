@@ -5,6 +5,12 @@
   padding: 2rem;
 }
 
+.projectTile img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;

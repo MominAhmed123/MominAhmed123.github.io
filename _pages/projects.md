@@ -16,6 +16,7 @@ published: true
   {% if project.redirect %}
   <div class="projectTile">
           <a href="{{ project.redirect }}" target="_blank">
+          <img src="{{ project.image }}" alt="{{ project.title }}"> 
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
@@ -28,6 +29,7 @@ published: true
 
   <div class="projectTile">
           <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
+          <img src="{{ project.image }}" alt="{{ project.title }}">
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
