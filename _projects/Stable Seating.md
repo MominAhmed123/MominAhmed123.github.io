@@ -2,7 +2,7 @@
 layout: post
 title: Stable Seating
 description: Seating 4n people in tables of 4 in a "stable" way
-image: "/assets/images/seatingp.png"
+image: "/assets/images/projects/graph.jpg"
 
 ---
 <head>
@@ -77,7 +77,7 @@ Given $2n$ people, where each person ranks the other $2n-1$, and given $n$ rooms
 
 The algorithm is fairly similar, and I am too lazy (and probably won't do a good job explainig) so here's a nice youtube video: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=9Lo7TFAkohE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Lo7TFAkohE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Firstly, this also runs in $O(n^2)$. More importantly, unlike Gale-Shapely, a stable matching may not exist since we can have a "love traingle". 
 <img src = "/assets/images/Stable Seating/love triangle.jpeg">
