@@ -4,40 +4,7 @@ title: Vector Image Compression
 description: Drawing with Fourier Epicycles
 image: "/assets/images/projects/dftp.png"
 ---
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MathJax in Markdown</title>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script>
-        window.MathJax = {
-            tex: {
-                inlineMath: [['$', '$']],
-                displayMath: [['$$', '$$']]
-            },
-            options: {
-                renderActions: {
-                    findScript: [10, function (doc) {
-                        for (const node of document.querySelectorAll('script[type^="math/tex"]')) {
-                            const display = !!node.type.match(/; *mode=display/);
-                            const math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
-                            const text = document.createTextNode('');
-                            const sibling = node.previousElementSibling;
-                            node.parentNode.replaceChild(text, node);
-                            math.start = {node: text, delim: '', n: 0};
-                            math.end = {node: text, delim: '', n: 0};
-                            doc.math.push(math);
-                            if (sibling && sibling.matches && sibling.matches('[data-md-text]')) {
-                                sibling.dataset.mdText += ' ' + node.textContent;
-                            }
-                        }
-                    }, '']
-                }
-            }
-        };
-    </script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-</head>
+
 <video style = "width: 75%; height: auto;" autoplay muted>
     <source src = "/assets/images/projects/DFT/DFT-skip2.mp4" type = "video/mp4" >
 Your browser does not support the video tag.
@@ -53,11 +20,13 @@ While this would definitely work, your approximate image will always be really s
 
 ## Discrete Fourier Transform
 Suppose we have a bunch of rotating circles: 
-$$C_1(r_1), ... , C_n(r_n)$$
-where $C_k(r_k)$ means a circle of frequency $k$ units and radius $r_k$ units.
-Using this list of circles, we can draw a figure by connecting the end of one circle to the start of the other circle (as you saw in the really clustered clip in the beginning). Given a list of $r_k$ it is easy to construct the output, however going in the backwards direction is not so easy. 
 
-The idea with DFT is that we want to go from some points to a list of $r_k$. That is, we take some sample points from the output image, and we want to decompose it into the list of $r_k$ that make up the output.
+$$C_1(r_1), ... , C_n(r_n)$$
+
+where $$C_k(r_k)$$ means a circle of frequency $$k$$ units and radius $$r_k$$ units.
+Using this list of circles, we can draw a figure by connecting the end of one circle to the start of the other circle (as you saw in the really clustered clip in the beginning). Given a list of $$r_k$$ it is easy to construct the output, however going in the backwards direction is not so easy. 
+
+The idea with DFT is that we want to go from some points to a list of $$r_k$$. That is, we take some sample points from the output image, and we want to decompose it into the list of $$r_k$$ that make up the output.
 
 As always, since I am too lazy (and I will probably make some mistakes in the explanation), here is an excellent video about DFT: 
 <iframe style = "width: 100%; height: 400px;" src="https://www.youtube.com/embed/spUNpyF58BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -81,7 +50,7 @@ Here skip indicates how many pixels are ignored until we take a sample point fro
 Your browser does not support the video tag.
 </video>
 
-You can also change the speed of the drawing by increasing the time delay in VectorRotation.java
+You can also change the speed of the drawing by changing the time delay in VectorRotation.java
 ~~~
 timer = new Timer(50, e -> {
     angle += dt;
@@ -91,4 +60,4 @@ timer = new Timer(50, e -> {
     updateVector();
 });
 ~~~
-The amplitudes of each cycle along with the phase change is printed in the terminal. 
+For each frequency $$k$$, the amplitudes of each cycle $$r_k$$ along with the phase change $$\theta _ k$$ is printed in the terminal. 
