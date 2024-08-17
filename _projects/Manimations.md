@@ -6,7 +6,7 @@ image: "/assets/images/projects/manimp.png"
 ---
 ## Introduction 
 Manim is a Math animations python library - originally designed by 3Blue1Brown and maintained by the manim community. The pretty visuals combined with my horrible writting pushed me to try out manim for a change.
-<video width = "600" height = "450" autoplay muted>
+<video style = "width: 75%; height: auto;" autoplay muted>
     <source src = "/assets/images/projects/manimations/PolarP.mp4" type = "video/mp4" >
 Your browser does not support the video tag.
 </video>
@@ -14,10 +14,10 @@ Your browser does not support the video tag.
 It was fairly hard to get started with manim due to reasons I will elaborate in the last section - so I wanted to work on something less ambituous and just publish it. 
 
 You can view the full video here : 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/679wVNTd-34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style = "width: 100%; height: 400px;" src="https://www.youtube.com/embed/679wVNTd-34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Essentially, the main reason I wanted to use manim here is just for this animation: 
-<video width="600" height="450" autoplay muted>
+<video style = "width: 75%; height: auto;" autoplay muted>
   <source src="/assets/images/projects/manimations/withbraces.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -29,10 +29,10 @@ This is when I actually made proper use of going through the effort of making an
 There problem at hand is the isoperimetric property : to find the best possible area with a fixed arclength. 
 
 You can view the full video here : 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l7Knu0BiICg" 
+<iframe style = "width: 100%; height: 400px;" src="https://www.youtube.com/embed/l7Knu0BiICg" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Here, the main idea is the we can vary this angle (to increase the area) while keeping the arclength the same: 
-<video width="600" height="450" autoplay muted>
+<video style = "width: 75%; height: auto;" autoplay muted>
   <source src="/assets/images/projects/manimations/concave.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>

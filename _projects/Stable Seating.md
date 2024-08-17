@@ -53,7 +53,7 @@ This definition of stability is inspire by the popular "Stable Marriage Problem"
 
 ## Stable Marriage Problem & Gale-Shapely Algorithm
 <center>
-<img src = "https://si.wsj.net/public/resources/images/BN-XJ961_backgr_16U_20180208175203.jpg" width = 500 height = 400 style = "margin-top: 10px;">
+<img src = "https://si.wsj.net/public/resources/images/BN-XJ961_backgr_16U_20180208175203.jpg" style = "width: 75%; height: auto;">
 </center>
 In this scenario, we have $n$ boys and $n$ girls and we want to find a stable marrage pairing (with the same definition of stability). Each girl has ranked the $n$ boys from most preference to least prefered and similarly, the boys also separately rank all $n$ girls. 
 
@@ -77,10 +77,11 @@ Given $2n$ people, where each person ranks the other $2n-1$, and given $n$ rooms
 
 The algorithm is fairly similar, and I am too lazy (and probably won't do a good job explainig) so here's a nice youtube video: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Lo7TFAkohE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style = "width: 100%; height: 400px;" src="https://www.youtube.com/embed/9Lo7TFAkohE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Firstly, this also runs in $O(n^2)$. More importantly, unlike Gale-Shapely, a stable matching may not exist since we can have a "love traingle". 
-<img src = "/assets/images/Stable Seating/love triangle.jpeg">
+<img style = "width: 75%; height: auto;" 
+src = "/assets/images/Stable Seating/love triangle.jpeg">
 Here it is easy to see that no stable pairing exists. Essentially, if the preferences are really diverse (people do not replicate other's feelings) then a stable pairing does not exist (which in real life is a bit unlikely - specially with larger $n$),
 <br>
 
