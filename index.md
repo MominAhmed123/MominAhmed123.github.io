@@ -32,11 +32,11 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
   <h3 style="margin: 0;">Coding</h3>
 </div>
 
-  I have recently been addicted to competitve coding and I can see myself improving with every problem I solve. You can view my codeforces profile here.
+  I have recently been addicted to competitve coding and I can see myself improving with every problem I solve. You can view my CP journey <a href = "https://codeforces.com/profile/zer0_123"> here </a>.§
 
   Besides competitve coding, I have been coding for more than 5 years now and I am quite comfortable with learning new things when need be. You can view my github for a few of the projects I worked on. 
 
-  Recently, I have also been addicted to competitve programming. You can view my CP journey <a href = "https://codeforces.com/profile/zer0_123"> here </a>.
+
 
 <div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
   <h3 style="margin: 0;">Familiarity with Languages</h3>
