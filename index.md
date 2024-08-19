@@ -32,11 +32,9 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
   <h3 style="margin: 0;">Coding</h3>
 </div>
 
-  I have recently been addicted to competitve coding and I can see myself improving with every problem I solve. You can view my CP journey <a href = "https://codeforces.com/profile/zer0_123"> here </a>.§
+  I have recently been addicted to competitve coding and I can see myself improving with every problem I solve. You can view my CP journey <a href = "https://codeforces.com/profile/zer0_123"> here </a>.
 
   Besides competitve coding, I have been coding for more than 5 years now and I am quite comfortable with learning new things when need be. You can view my github for a few of the projects I worked on. 
-
-
 
 <div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
   <h3 style="margin: 0;">Familiarity with Languages</h3>
@@ -50,7 +48,7 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
   <h3 style="margin: 0;">Familiarity with Libraries and Tools</h3>
 </div>
 
-  I have worked with pandas extensivly in python and I am quite comfortable with using it. Additionally, I am fimiliar with Keras/TensorFlow/Sickit Learn as I have worked on projects using them. I have also used GDK (a GUI library for C) although I would rather stay away from it (ㆆ _ ㆆ). Additionally, I also work with Manim - a math animations library for python. 
+  I have worked with pandas extensively in python and I am quite comfortable with using it. Additionally, I am fimiliar with Keras/TensorFlow/Sickit Learn as I have worked on projects using them. I have also used GDK (a GUI library for C) although I would rather stay away from it (ㆆ _ ㆆ). Additionally, I also work with Manim - a math animations library for python. 
 
   As for tools, I am familiar with Git, Unix based systems such as Linux, and also Jekyll (used for static websites).
 
