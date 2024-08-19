@@ -5,40 +5,6 @@ description: Seating 4n people in tables of 4 in a "stable" way
 image: "/assets/images/projects/graph.jpg"
 
 ---
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MathJax in Markdown</title>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script>
-        window.MathJax = {
-            tex: {
-                inlineMath: [['$', '$']],
-                displayMath: [['$$', '$$']]
-            },
-            options: {
-                renderActions: {
-                    findScript: [10, function (doc) {
-                        for (const node of document.querySelectorAll('script[type^="math/tex"]')) {
-                            const display = !!node.type.match(/; *mode=display/);
-                            const math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
-                            const text = document.createTextNode('');
-                            const sibling = node.previousElementSibling;
-                            node.parentNode.replaceChild(text, node);
-                            math.start = {node: text, delim: '', n: 0};
-                            math.end = {node: text, delim: '', n: 0};
-                            doc.math.push(math);
-                            if (sibling && sibling.matches && sibling.matches('[data-md-text]')) {
-                                sibling.dataset.mdText += ' ' + node.textContent;
-                            }
-                        }
-                    }, '']
-                }
-            }
-        };
-    </script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-</head>
 
 ## Problem Statement
 We have $4n$ seats arranged in $4$ columns, $n$ rows and we want to seat $4n$ people in them in the best possible way (i.e. a group of $4$ friends who really like each other should be seated together).
@@ -57,7 +23,7 @@ This definition of stability is inspire by the popular "Stable Marriage Problem"
 </center>
 In this scenario, we have $n$ boys and $n$ girls and we want to find a stable marrage pairing (with the same definition of stability). Each girl has ranked the $n$ boys from most preference to least prefered and similarly, the boys also separately rank all $n$ girls. 
 
-The Gale-Shapely Algirthm gives a greedy $O(n^2)$ solution to this problem. And it goes as follows : 
+The (apparently Nobel Prize winning) Gale-Shapely Algirthm gives a greedy $O(n^2)$ solution to this problem. And it goes as follows : 
 
 In Day1, each boy proposes to the girl that is their first preference. At the end of the day, each girl keeps the boy who they currently prefer the most and reject the other boys. Note that here it is not necessary that every girl gets proposed to. 
 
@@ -82,6 +48,7 @@ The algorithm is fairly similar, and I am too lazy (and probably won't do a good
 Firstly, this also runs in $O(n^2)$. More importantly, unlike Gale-Shapely, a stable matching may not exist since we can have a "love traingle". 
 <img style = "width: 75%; height: auto;" 
 src = "/assets/images/Stable Seating/love triangle.jpeg">
+
 Here it is easy to see that no stable pairing exists. Essentially, if the preferences are really diverse (people do not replicate other's feelings) then a stable pairing does not exist (which in real life is a bit unlikely - specially with larger $n$),
 <br>
 
@@ -89,7 +56,7 @@ Back to our problem, we can finally use this to pair the middle seats and we are
 ## Remarks About the Code
 The code is avaiable on github <a href = "https://github.com/MominAhmed123/StableSeating"> here </a>. 
 
-For anyone who wants to look at the code, please don't. Practically, it is hard to code a less effecient program than this one. In my quest to add a GUI in C, I have thrown away all effeciency and it is a joke to say that this is truly $O(n^2)$.
+For anyone who wants to look at the code, please don't. Practically, it is hard to code a less effecient program than this one. In my quest to add a GUI in C, I have thrown away all effeciency out of the window - even though, ironically, effeciency is what motivated to work on this. 
 
 I worked on this problem as an "End Semester Project" to an intro to CS class. The classroom was arranged in $4$ seats in each row and there was "free seating" i.e. you can sit where ever you want. So naturally, it begs the question - "What is the best possible seating". 
 

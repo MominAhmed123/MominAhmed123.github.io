@@ -36,6 +36,8 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
 
   Besides competitve coding, I have been coding for more than 5 years now and I am quite comfortable with learning new things when need be. You can view my github for a few of the projects I worked on. 
 
+  Recently, I have also been addicted to competitve programming. You can view my CP journey <a href = "https://codeforces.com/profile/zer0_123"> here </a>.
+
 <div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
   <h3 style="margin: 0;">Familiarity with Languages</h3>
 </div>
