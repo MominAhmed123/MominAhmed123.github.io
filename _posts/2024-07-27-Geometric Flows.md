@@ -42,6 +42,7 @@ The Hamilton and Cage paper only deals with convex curves - however I was qutie 
 It turns out that every concave curve eventually evolves into a bunch of convex curves. This amazinng result is achieved by Grayson's theorem, that genralizes the Cage-Hamilton Theorem : 
 
 > " Grayson's Theorem "
+>
 > Convergence to a round point is given by the existence of a unique point $$x_0 \in \mathbb{R}^2$$ such that the rescaled flows 
 >$$ \gamma_t^{\lambda} = \lambda \cdot (\gamma_{T + \lambda^{-2}t} - x_0) $$
 >converge as $$\lambda \to \infty$$ to the round circle $$\{\partial B_{\sqrt{-2t}}\}_{t\in(-\infty, 0)}$$ which shrinks.

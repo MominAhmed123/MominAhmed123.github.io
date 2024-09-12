@@ -146,22 +146,24 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
       * Ziauddin Univesrity Debating Competition 2019 - Most promising Team (Debating)
 
   4. #### Important Courses I have taken
-      * MATH2043 - Honours Mathematical Analysis
+      * MATH3043 - Honours Real Analysis (Taking)
+
+      * COMP3711H - Honours Design and Analysis of Algorithms (Taking)
+
+      * COMP2012H - Honours OOP and Data Structures (Taking)
+
+      * COMP3311 - Database Management Systems (Taking)
+
+      * MATH2511 - Foundations of Acturial Math (Taking)
+
+      * MATH4141 - Number Theory (Auditing)
 
       * MATH2131 - Honours Linear Algebra
 
       * COMP2711H - Honours Discrete Mathematics
 
-      * COMP3711H - Honours Design and Analysis of Algorithms (Taking)
-
-      * COMP5711 - Advanced Algorithms (Taking)
-
       * MATH1024 - Honours Calculus 2
 
       * COMP2211 - Introduction to AI
 
-      * COMP2012H - Honours OOP and Data Structures (Taking)
-
       * MATH2023 - Multivariable Calculus
-
-      * MATH4141 - Number Theory (Auditing)
