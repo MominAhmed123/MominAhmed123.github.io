@@ -34,7 +34,7 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
 
   I have recently been addicted to competitve coding and I can see myself improving with every problem I solve. You can view my CP journey <a href = "https://codeforces.com/profile/zer0_123"> here </a>.
 
-  Besides competitve coding, I have been coding for more than 5 years now and I am quite comfortable with learning new things when need be. You can view my github for a few of the projects I worked on. 
+  Besides competitve coding, I have been coding for a long while now and I am quite comfortable with learning new things when need be. You can view my github for a few of the projects I worked on. 
 
 <div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
   <h3 style="margin: 0;">Familiarity with Languages</h3>
@@ -76,7 +76,7 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
   <h3 style="margin: 0;">Research</h3>
 </div>
 
-  My first (and currently only) experience was in Summer 2024 when I undertook a UROP under Prof. Fredrick Fong for "Geometric Flows". I gained a lot of valuable experience from this research - although I still need to learn much more to improve my research skills.
+  My first experience was in Summer 2024 when I undertook a UROP under Prof. Fredrick Fong for "Geometric Flows". I am currently taking UROP1100 course under Prof. Chen Qifeng on "Deep Super Resolution". 
 
 <div style="text-align: center;">
   <h2 id="exp">Experiences</h2>
@@ -108,8 +108,10 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
 <div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
   <h3 style="margin: 0;">Coding</h3>
 </div>
+  I was working as a AI Engineering Intern at MindPlus AI Limited over the winter of 2024-2025. Here I worked a lot with computer vision using python and particularly gained hands on experience in important python libraries such as PyTorch. To put it briefly, my job was the take OCT eye scans and compile them using different projection 
+  methods to obtain a decent B scan. After that, I developed AI models (UNets) for blood vessel segmentation. Lastly, I studied the effeciency of the model, tunning it and adding extra features for increasing frequency. Overall, it was a great experience and I got to learn many valuable things. 
 
-  I have a fair bit of informal experience as I've worked on a few projects. I usually just work on something when I have a reason to - instead of just doing it for the sake of building a portfolio. 
+  I also have a fair bit of informal experience as I've worked on a few projects. I usually just work on something when I have a reason to - instead of just doing it for the sake of building a portfolio. 
 
   Refer to "Projects" section to learn more about them. You can also check some of them out on github.
 
@@ -146,23 +148,31 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
       * Ziauddin Univesrity Debating Competition 2019 - Most promising Team (Debating)
 
   4. #### Important Courses I have taken
-      * MATH3043 - Honours Real Analysis (Taking)
+      * COMP5712 - Combinatorial Optimization 
 
-      * COMP3711H - Honours Design and Analysis of Algorithms (Taking)
+      * COMP5214 - Advanced Deep Learning Architectures 
 
-      * COMP2012H - Honours OOP and Data Structures (Taking)
+      * COMP4121 - Modern Compiler Design
 
-      * COMP3311 - Database Management Systems (Taking)
+      * MATH3043 - Honors Real Analysis
 
-      * MATH2511 - Foundations of Acturial Math (Taking)
+      * COMP3711H - Honours Design and Analysis of Algorithms
+
+      * COMP2012H - Honours OOP and Data Structures
+
+      * COMP3311 - Database Management Systems
+
+      * MATH2511 - Foundations of Acturial Math
 
       * MATH4141 - Number Theory (Auditing)
 
-      * MATH2131 - Honours Linear Algebra
+      * MATH2131 - Honors Linear Algebra
 
-      * COMP2711H - Honours Discrete Mathematics
+      * MATH2431 - Honors Probability
 
-      * MATH1024 - Honours Calculus 2
+      * COMP2711H - Honors Discrete Mathematics
+
+      * MATH1024 - Honors Calculus 2
 
       * COMP2211 - Introduction to AI
 
