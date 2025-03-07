@@ -48,7 +48,7 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
   <h3 style="margin: 0;">Familiarity with Libraries and Tools</h3>
 </div>
 
-  I have worked with pandas extensively in python and I am quite comfortable with using it. Additionally, I am fimiliar with Keras/TensorFlow/Sickit Learn as I have worked on projects using them. I have also used GDK (a GUI library for C) although I would rather stay away from it (ㆆ _ ㆆ). Additionally, I also work with Manim - a math animations library for python. 
+  I have worked with pandas extensively in python and I am quite comfortable with using it. Additionally, I am fimiliar with PyTorch/Keras/TensorFlow/Sickit Learn as I have worked on projects using them. During my winter internship at mindplusAI, I have also got comfortable with OpenCV for computer vision. I have also used GDK (a GUI library for C) although I would rather stay away from it (ㆆ _ ㆆ). Additionally, I also work with Manim - a math animations library for python. 
 
   As for tools, I am familiar with Git, Unix based systems such as Linux, and also Jekyll (used for static websites).
 
