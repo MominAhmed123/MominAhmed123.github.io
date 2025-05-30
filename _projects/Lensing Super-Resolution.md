@@ -4,4 +4,11 @@ title: Lensing Super-Resolution
 description: Using Deep Learning to enhance lensing images
 image: "/assets/images/projects/lensingp.jpeg"
 ---
-I have not yet written this post :(:
+I am too lazy to elaborate, here are the relevant reports and presentation.
+
+<iframe src="/assets/images/Lensing/Final\ Report.pdf" style="width: 100%; height: 500px;" frameborder="0"></iframe>
+
+<iframe src="/assets/images/res/geometric/Galaxy\ Project\ Presentation.pdf" style="width: 100%; height: 500px;" frameborder="0"></iframe>
+
+<iframe src="/assets/images/Lensing/report.pdf" style="width: 100%; height: 500px;" frameborder="0"></iframe>
+
