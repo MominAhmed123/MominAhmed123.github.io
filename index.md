@@ -7,11 +7,11 @@ profile:
 published: true
 ---
 
-Hello! My name is Momin and I am currently a Mathematics + Computer Science Double Major at Hong Kong University of Science and Technology (HKUST). Within Computer Science, I am very much interested in algorithms and I am also currently quite involved in competitve coding. Within Mathematics, I like pure maths and I have also been involved with math olympiads.
+Hello! My name is Momin and I am currently a Mathematics + Computer Science Double Major at Hong Kong University of Science and Technology (HKUST). Within Computer Science, I am very much interested in algorithms and I am also love to participate in competitive coding. Within Mathematics, I like pure maths and I have also been involved with math olympiads.
 
 Besides these two, teaching excites me alot. I have been involved with teaching Maths and CS for quite some time now. I really enjoy it and I think it's quite fulfilling. 
 
-I am also 21 years old - which means I like video games. Oh, I also likes cats (very original, I know).
+I am also 22 years old - which means I like video games. Oh, I also likes cats (very original, I know).
 
 Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below!
 
@@ -32,7 +32,7 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
   <h3 style="margin: 0;">Coding</h3>
 </div>
 
-  I have recently been addicted to competitve coding and I can see myself improving with every problem I solve. You can view my CP journey <a href = "https://codeforces.com/profile/zer0_123"> here </a>.
+  I don't get a lot of spare time to enjoy competitions but still I love to take out time sometimes to enjoy the problems. You can view my CP journey <a href = "https://codeforces.com/profile/zer0_123"> here </a>.
 
   Besides competitve coding, I have been coding for a long while now and I am quite comfortable with learning new things when need be. You can view my github for a few of the projects I worked on. 
 
@@ -76,7 +76,9 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
   <h3 style="margin: 0;">Research</h3>
 </div>
 
-  My first experience was in Summer 2024 when I undertook a UROP under Prof. Fredrick Fong for "Geometric Flows". I am currently taking UROP1100 course under Prof. Chen Qifeng on "Deep Super Resolution". 
+  My first experience was in Summer 2024 when I undertook a UROP under Prof. Fredrick Fong for "Geometric Flows". After that I was part of Prof. Chen Qifeng's group for "Deep Super Resolution" where I primarily test a modification of his "HyperThumbnail Super Resolution" model. 
+
+  I am currently a research intern with Prof. Zhiyi Huang at HKU where I work with Online Algorithms.
 
 <div style="text-align: center;">
   <h2 id="exp">Experiences</h2>
@@ -111,7 +113,7 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
   I was working as a AI Engineering Intern at MindPlus AI Limited over the winter of 2024-2025. Here I worked a lot with computer vision using python and particularly gained hands on experience in important python libraries such as PyTorch. To put it briefly, my job was the take OCT eye scans and compile them using different projection 
   methods to obtain a decent B scan. After that, I developed AI models (UNets) for blood vessel segmentation. Lastly, I studied the effeciency of the model, tunning it and adding extra features for increasing frequency. Overall, it was a great experience and I got to learn many valuable things. 
 
-  I also have a fair bit of informal experience as I've worked on a few projects. I usually just work on something when I have a reason to - instead of just doing it for the sake of building a portfolio. 
+  Similarly, as an intern with Prof. Chen Qifeng, I worked to modify his architecture to test out different models.
 
   Refer to "Projects" section to learn more about them. You can also check some of them out on github.
 
