@@ -78,7 +78,7 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
 
   My first experience was in Summer 2024 when I undertook a UROP under Prof. Fredrick Fong for "Geometric Flows". After that I was part of Prof. Chen Qifeng's group for "Deep Super Resolution" where I primarily test a modification of his "HyperThumbnail Super Resolution" model. 
 
-  I am currently a research intern with Prof. Zhiyi Huang at HKU where I work with Online Algorithms.
+  I am currently a research intern with Prof. Zhiyi Huang at HKU where I work with Online Algorithms. Particularly, I am working on the "Online Matroid Secretary Problem".
 
 <div style="text-align: center;">
   <h2 id="exp">Experiences</h2>
@@ -150,6 +150,23 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
       * Ziauddin Univesrity Debating Competition 2019 - Most promising Team (Debating)
 
   4. #### Important Courses I have taken
+
+      * COMP5711 - Introduction to Advanced Algorithmic Techniques (Taking)
+
+      * MATH4141 - Number Theory (Taking)
+
+      * MATH3343 - Combinatorial Analysis (Taking)
+
+      * COMP2633 - Competitive Programming in CyberSecurity I (Taking)
+
+      * COMP3712 - Theory of Computation (Taking)
+
+      * MATH3423 - Statistical Inference (Taking)
+
+      * MATH3312 - Numertical Analysis (Taking)
+
+      * COMP5311 - Database Architecture and Implementation (Taking)
+
       * COMP5712 - Combinatorial Optimization 
 
       * COMP5214 - Advanced Deep Learning Architectures 
@@ -165,8 +182,6 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
       * COMP3311 - Database Management Systems
 
       * MATH2511 - Foundations of Acturial Math
-
-      * MATH4141 - Number Theory (Auditing)
 
       * MATH2131 - Honors Linear Algebra
 
