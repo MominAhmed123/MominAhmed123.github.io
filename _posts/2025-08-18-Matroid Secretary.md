@@ -6,8 +6,7 @@ I am currently working on this problem under [Prof. Zhiyi Huang](https://i.cs.hk
 
 Below is a presentation that introduces the problem along with some examples.
 
-<iframe style = "width: 100%; height: 400px;" src="https://youtu.be/PzvrhOiXHLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe style = "width: 100%; height: 400px;" src="https://www.youtube.com/embed/PzvrhOiXHLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Online Secretary Problem
 
