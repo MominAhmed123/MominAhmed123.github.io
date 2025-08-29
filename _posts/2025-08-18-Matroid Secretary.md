@@ -4,6 +4,10 @@ title: "Matroid Secretary Problem"
 ---
 I am currently working on this problem under [Prof. Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/) from HKU.
 
+Below is a presentation that introduces the problem along with some examples.
+
+[![Matroid Secretary Problem Video](https://img.youtube.com/vi/PzvrhOiXHLE/0.jpg)](https://youtu.be/PzvrhOiXHLE)
+
 ## Online Secretary Problem
 
 This is a classic problem in online algorithms that has been solved optimally in competitive ratio-$e$. 
