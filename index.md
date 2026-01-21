@@ -7,9 +7,9 @@ profile:
 published: true
 ---
 
-Hello! My name is Momin and I am currently a Mathematics + Computer Science Double Major at Hong Kong University of Science and Technology (HKUST). Within Computer Science, I am very much interested in algorithms and I am also love to participate in competitive coding. Within Mathematics, I like pure maths and I have also been involved with math olympiads.
+Hello! My name is Momin and I am currently a Mathematics + Computer Science Double Major at Hong Kong University of Science and Technology (HKUST). Within Computer Science, I am mostly interested in Theoreticaal Computer Science (No, not formal languages). Within Mathematics, I like pure maths - discrete math is particularly most fun for me.
 
-Besides these two, teaching excites me alot. I have been involved with teaching Maths and CS for quite some time now. I really enjoy it and I think it's quite fulfilling. 
+Besides these two, teaching also excites me. I have been involved with teaching Maths and CS for quite some time now. I really enjoy it and I think it's quite fulfilling. 
 
 I am also 22 years old - which means I like video games. Oh, I also likes cats (very original, I know).
 
@@ -125,13 +125,15 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
 ***
   1.  #### Scholarships
 
+      * S.S. Chern Class Award
+
       * HKUST Full Tuition Scholarship (Merit-Based)
 
       * Nixor College Full Tuition Scholarship (Merit-Based)
 
   2. #### Academic Awards
 
-      * HKUST Fall 2023 Dean's List
+      * HKUST Dean's List (Fall 2023, Spring 2025, Fall 2025)
       
       * Nixor College 2021 - 2022 Dean's List with Academic Distinction
 
@@ -149,23 +151,33 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
 
       * Ziauddin Univesrity Debating Competition 2019 - Most promising Team (Debating)
 
-  4. #### Important Courses I have taken
+  4. #### Some Courses I have taken
 
-      * COMP5711 - Introduction to Advanced Algorithmic Techniques (Taking)
+      * MATH5380 - Combinatorics (Taking)
 
-      * MATH4141 - Number Theory (Taking)
+      * COMP3511 - Operating Systems (Taking)
 
-      * MATH3343 - Combinatorial Analysis (Taking)
+      * MATH3131 - Honors Linear and Abstract Algebra II (Taking)
 
-      * COMP2633 - Competitive Programming in CyberSecurity I (Taking)
+      * COMP4971B - Independent Work (Distributed and Parallel Algorithms) (Taking)
 
-      * COMP3712 - Theory of Computation (Taking)
+      * UTOP3201 - Practicum in STEAM Education (Taking)
 
-      * MATH3423 - Statistical Inference (Taking)
+      * COMP5711 - Introduction to Advanced Algorithmic Techniques 
 
-      * MATH3312 - Numertical Analysis (Taking)
+      * MATH5011 - Advanced Real Analysis I (Audit)
 
-      * COMP5311 - Database Architecture and Implementation (Taking)
+      * COMP4971D - Independent Work (Approximation Algorithms)
+
+      * MATH4141 - Number Theory
+
+      * MATH3343 - Combinatorial Analysis
+
+      * COMP3712 - Theory of Computation 
+
+      * MATH3423 - Statistical Inference 
+
+      * MATH3312 - Numertical Analysis 
 
       * COMP5712 - Combinatorial Optimization 
 
@@ -183,13 +195,13 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
 
       * MATH2511 - Foundations of Acturial Math
 
-      * MATH2131 - Honors Linear Algebra
+      * MATH2131 - Honors Linear and Abstract Algebra I
 
       * MATH2431 - Honors Probability
 
       * COMP2711H - Honors Discrete Mathematics
 
-      * MATH1024 - Honors Calculus 2
+      * MATH1024 - Honors Calculus II
 
       * COMP2211 - Introduction to AI
 
