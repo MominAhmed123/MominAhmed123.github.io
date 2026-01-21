@@ -32,7 +32,7 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
   <h3 style="margin: 0;">Coding</h3>
 </div>
 
-  I don't get a lot of spare time to enjoy competitions but still I love to take out time sometimes to enjoy the problems. You can view my CP journey <a href = "https://codeforces.com/profile/zer0_123"> here </a>.
+  I don't get a lot of spare time to enjoy competitions but still I love to take out time sometimes to enjoy the problems. You can view my CP journey <a href = "https://codeforces.com/profile/zer0_123"> here</a>.
 
   Besides competitve coding, I have been coding for a long while now and I am quite comfortable with learning new things when need be. You can view my github for a few of the projects I worked on. 
 
@@ -187,9 +187,11 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
 
       * MATH3043 - Honors Real Analysis
 
-      * COMP3711H - Honours Design and Analysis of Algorithms
+      * COMP3711H - Honors Design and Analysis of Algorithms
 
-      * COMP2012H - Honours OOP and Data Structures
+      * MATH2043 - Honors Mathematical Analysis
+
+      * COMP2012H - Honors OOP and Data Structures
 
       * COMP3311 - Database Management Systems
 
