@@ -10,4 +10,4 @@ Suppose we have a large image stored somewhere that we wish to quickly prieview 
 
 The original idea is to introduce AI models within the JPEG Compression algorithm. I worked around with different architectures and ended up improving the accuracy of the previous model at a fraction of the speed tradeoff.
 
-<iframe src="/assets/res/hyper/report.pdf" style="width: 100%; height: 500px;" frameborder="0"></iframe>
+<iframe src="/assets/images/res/hyper/report.pdf" style="width: 100%; height: 500px;" frameborder="0"></iframe>
