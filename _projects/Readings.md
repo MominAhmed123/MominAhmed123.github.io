@@ -15,4 +15,11 @@ Started reading in September 2025, with Yik Long Tse (Rex). We covered Part I of
 
 ### Distributed Algorithms 2020, Jukka Suomela and Juho Hirvonen 
 
-Currently reading.
+Started reading in February 2026, with Yik Long Tse (Rex) and Abdul Rehman. We covered the entire book with atleast 3 questions from each chapter.
+
+<iframe src="/assets/images/projects/Reading/Distribute Algorithms Main.pdf" style="width: 100%; height: 500px;" frameborder="0"></iframe>
+
+
+### Computational Learning Theory by Varun Kanade (2024)
+
+Currently Reading
