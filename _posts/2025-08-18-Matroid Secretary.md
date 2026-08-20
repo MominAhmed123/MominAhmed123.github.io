@@ -2,7 +2,7 @@
 layout: post
 title: "Matroid Secretary Problem"
 ---
-I worked on this problem under [Prof. Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/) from HKU.
+I worked on this problem under [Prof. Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/) from HKU as part of HKU CDS Research Internship and later on informally.
 
 Below is a presentation that introduces the problem along with some examples.
 
@@ -29,10 +29,9 @@ The best known result so far gives $r = \log \log k$ where $k$ is the rank of th
 There are some specific classes of matroids for which a better ratio has been achieved - for example, [graphical matroids](https://en.wikipedia.org/wiki/Graphic_matroid) have been solved so far in $r = 4$. 
 
 ## My Contributions
-Below is a very messy documentations of my work: 
+Below is a very messy documentation of my work, with minimal progress:
 
-<iframe src="/assets/res/online matroid/ideas.pdf" style="width: 100%; height: 500px;" frameborder="0"></iframe>
-
+<iframe src="/assets/images/res/online%20matroid/ideas.pdf" style="width: 100%; height: 500px;" frameborder="0"></iframe>
 
 
  
