@@ -7,78 +7,13 @@ profile:
 published: true
 ---
 
-Hello! My name is Momin and I am currently a Mathematics + Computer Science Double Major at Hong Kong University of Science and Technology (HKUST). Within Computer Science, I am mostly interested in Theoreticaal Computer Science (No, not formal languages). Within Mathematics, I like pure maths - discrete math is particularly most fun for me.
+Hello! My name is Momin and I am currently a final year Mathematics + Computer Science undergraduate at Hong Kong University of Science and Technology (HKUST). Within Computer Science, I am mostly interested in Theoretical Computer Science (No, not formal languages). Within Mathematics, I like pure maths - discrete math is particularly most fun for me.
 
 Besides these two, teaching also excites me. I have been involved with teaching Maths and CS for quite some time now. I really enjoy it and I think it's quite fulfilling. 
 
-I am also 22 years old - which means I like video games. Oh, I also likes cats (very original, I know).
+Check out my [Experiences](#exp), and [Awards](#awards) below!
 
-Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below!
 
-<div style="text-align: center;">
-  <h2 id="skills">Skills</h2>
-</div>
-
-***
-<div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
-  <h3 style="margin: 0;">Teaching</h3>
-</div>
-
-  I love teaching - particularly things that I consider "cool". I find it to be quite unfortunate how elegant subjects such as Math and creative subjects such as CS are taught in schools in such an uninspiring and unmotivating manner - and I hope to play a part in changing that. 
-
-  I have a lot of exprience teaching (refer to the "Experiences" section) and I have grown quite comfortable with the online mode of teaching. 
-
-<div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
-  <h3 style="margin: 0;">Coding</h3>
-</div>
-
-  I don't get a lot of spare time to enjoy competitions but still I love to take out time sometimes to enjoy the problems. You can view my CP journey <a href = "https://codeforces.com/profile/zer0_123"> here</a>.
-
-  Besides competitve coding, I have been coding for a long while now and I am quite comfortable with learning new things when need be. You can view my github for a few of the projects I worked on. 
-
-<div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
-  <h3 style="margin: 0;">Familiarity with Languages</h3>
-</div>
-
-  I have worked with C/ C++/ Python/ Java and HTML / CSS (although they are not programming languages). Of those, currently C++ remains my go-to. I also use $ \LaTeX $ for writing my notes.  
-
-  As for Human languages, I am fluent in English and Urdu (which means I can also understand and speak Hindi). I have passed the German A1 exam, although now Ich kann mich an nichts erinnern, was ich gelernt habe. Oh, I am also trying to learn Mandarin (我会说一点普通话).
-
-<div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
-  <h3 style="margin: 0;">Familiarity with Libraries and Tools</h3>
-</div>
-
-  I have worked with pandas extensively in python and I am quite comfortable with using it. Additionally, I am fimiliar with PyTorch/Keras/TensorFlow/Sickit Learn as I have worked on projects using them. During my winter internship at mindplusAI, I have also got comfortable with OpenCV for computer vision. I have also used GDK (a GUI library for C) although I would rather stay away from it (ㆆ _ ㆆ). Additionally, I also work with Manim - a math animations library for python. 
-
-  As for tools, I am familiar with Git, Unix based systems such as Linux, and also Jekyll (used for static websites).
-
-<div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
-  <h3 style="margin: 0;">Mathematics </h3>
-</div>
-
-  I have loved maths ever since I read "Art and Craft of Problem Solving" by Paul Zeitz in High School. Now in university, I am mostly studying Pure Maths (refer to last section for specific courses). In particular, Number Theory is my favourite area.
-
-  I started my Math journey with Olympiad - you can refer to last section for a bunch of awards I got (no, I do not have any IMO medals :c ). I continue to be involved in Olympaid as I follow up with each year's IMO and seldom attempt a few questions. I am also active in Math Circles (in both Pakistan and Hong Kong) and I am also frequently available on AOPs as a grader.  
-
-<div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
-  <h3 style="margin: 0;">Creative Media</h3>
-</div>
-
-  I am also decently good at Photo and Video Editing. In particular, I really like the entire creative process a lot although I must say video editing and animations are way too much effort than I would like to put in. Speaking of animations, I am also decent with math animations using Manim library. Lastly, I have built up a fair bit of experience designing posters and banners for socieities. Some of my projects are available on youtube. 
-
-<div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
-  <h3 style="margin: 0;">Debating/ Public Speaking</h3>
-</div>
-
-  I have lots of experience from High school as I was part of MUN and Debate team. I continue to follow some WDC (World Debating Championship) matches, although now I do not find the time to engage in proper debating matches.
-
-<div style="display: inline-block; padding: 3px; border: 1px; color: #60c17d ; border-radius: 1px;">
-  <h3 style="margin: 0;">Research</h3>
-</div>
-
-  My first experience was in Summer 2024 when I undertook a UROP under Prof. Fredrick Fong for "Geometric Flows". After that I was part of Prof. Chen Qifeng's group for "Deep Super Resolution" where I primarily test a modification of his "HyperThumbnail Super Resolution" model. 
-
-  I am currently a research intern with Prof. Zhiyi Huang at HKU where I work with Online Algorithms. Particularly, I am working on the "Online Matroid Secretary Problem".
 
 <div style="text-align: center;">
   <h2 id="exp">Experiences</h2>
@@ -92,6 +27,10 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
   I will only list a few important experiences (since the list is too long). 
 
   * I am currently working in AOPs as a grader. AOPs has online courses for olympiad preperation - I grade students' submissions for many areas of Mathematics and CS. 
+
+  * I am currently a UGTA for Comp3721 (Complexity Theory), where my responsiblities include delivering tutorials, making exams and grading.
+
+  * I was a UGTA for Comp2611 (Computer Organization) and I held weekly QnA sessions and answered querries online.
 
   * I worked from 2021-2022 as a Mathematics Teaching Assistant (TA) at Nixor College. I held after class sesions from students having queries and held extra classes for exam preperation. 
 
@@ -133,7 +72,7 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
 
   2. #### Academic Awards
 
-      * HKUST Dean's List (Fall 2023, Spring 2025, Fall 2025)
+      * HKUST Dean's List (Fall 2023, Spring 2025, Fall 2025, Spring 2026)
       
       * Nixor College 2021 - 2022 Dean's List with Academic Distinction
 
@@ -153,29 +92,33 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
 
   4. #### Some Courses I have taken
 
-      * MATH5380 - Combinatorics (Taking)
-
-      * COMP3511 - Operating Systems (Taking)
-
-      * MATH3131 - Honors Linear and Abstract Algebra II (Taking)
-
-      * COMP4971B - Independent Work (Distributed and Parallel Algorithms) (Taking)
+      * Comp4981H - Final Year Thesis (Taking)
+      
+      * Comp6613F - Quantum Information Processing (Taking)
 
       * UTOP3201 - Practicum in STEAM Education (Taking)
+      
+      * Comp4971B - Independent Reading (Computaional Learning Theory) (Taking)
+      
+      * COMP5713 - Computational Geometry (Taking)
+
+      * COMP3511 - Operating Systems
+
+      * MATH3131 - Honors Linear and Abstract Algebra II 
+
+      * COMP4971H - Independent Reading (Distributed and Parallel Algorithms) 
 
       * COMP5711 - Introduction to Advanced Algorithmic Techniques 
 
       * MATH5011 - Advanced Real Analysis I (Audit)
 
-      * COMP4971D - Independent Work (Approximation Algorithms)
+      * COMP4971D - Independent Reading (Approximation Algorithms)
 
       * MATH4141 - Number Theory
 
       * MATH3343 - Combinatorial Analysis
 
-      * COMP3712 - Theory of Computation 
-
-      * MATH3423 - Statistical Inference 
+      * COMP3721 - Theory of Computation 
 
       * MATH3312 - Numertical Analysis 
 
@@ -204,7 +147,5 @@ Check out my [Skills](#skills), [Experiences](#exp), and [Awards](#awards) below
       * COMP2711H - Honors Discrete Mathematics
 
       * MATH1024 - Honors Calculus II
-
-      * COMP2211 - Introduction to AI
 
       * MATH2023 - Multivariable Calculus
